@@ -1,0 +1,29 @@
+name: AEM-Dev-Sync-Script
+
+on:
+  push:
+    branches:
+      - develop
+  repository_dispatch:
+    types: [backend_automation]
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' || github.event_name == 'repository_dispatch' || github.event_name == 'workflow_dispatch'
+    steps:
+      - uses: actions/checkout@v2
+      - name: Link to Cloud-Manager
+        run: if [ -z "$(cat .git/config | grep "cloudmanager")" ]; then git remote add cloudmanager https://${{ secrets.CM_CREDENTIALS }}@git.cloudmanager.adobe.com/woolworthsltd/WOOLWORTHSLTDMRM-p15699/; fi
+
+      ## Develop branch update
+      - name: Fetch-Branch Develop
+        run: git fetch --unshallow origin
+      - name: Create/checkout Develop
+        run: git checkout develop
+      - name: Pull changes from Develop
+        run: git pull -q origin develop
+      - name: Push changes from Develop to Cloudmanager
+        run: git push -f -v cloudmanager develop
