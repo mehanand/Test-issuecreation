@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ad-content/ad-content.iml" filepath="$PROJECT_DIR$/ad-content/ad-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad-content/all/ad-content.all.iml" filepath="$PROJECT_DIR$/ad-content/all/ad-content.all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad-content/core/ad-content.core.iml" filepath="$PROJECT_DIR$/ad-content/core/ad-content.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dispatcher/ad-content.dispatcher.ams.iml" filepath="$PROJECT_DIR$/dispatcher/ad-content.dispatcher.ams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad-content/ui.apps/ad-content.ui.apps.iml" filepath="$PROJECT_DIR$/ad-content/ui.apps/ad-content.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad-content/ui.apps.structure/ad-content.ui.apps.structure.iml" filepath="$PROJECT_DIR$/ad-content/ui.apps.structure/ad-content.ui.apps.structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad-content/ui.content/ad-content.ui.content.iml" filepath="$PROJECT_DIR$/ad-content/ui.content/ad-content.ui.content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/woolies-acs.iml" filepath="$PROJECT_DIR$/woolies-acs.iml" />
+    </modules>
+  </component>
+</project>

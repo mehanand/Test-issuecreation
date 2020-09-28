@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ad-content.ui.content" />
+        <module name="ad-content.core" />
+        <module name="ad-content.ui.apps.structure" />
+        <module name="ad-content.all" />
+        <module name="ad-content.ui.apps" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ad-content" target="1.8" />
+      <module name="ad-content.all" target="1.8" />
+      <module name="ad-content.core" target="1.8" />
+      <module name="ad-content.dispatcher.ams" target="1.5" />
+      <module name="ad-content.ui.apps" target="1.8" />
+      <module name="ad-content.ui.apps.structure" target="1.8" />
+      <module name="ad-content.ui.content" target="1.8" />
+      <module name="woolies-acs" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

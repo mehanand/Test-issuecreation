@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec549a0f-7724-44c5-ad11-1dae1de367ea" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/ad-content/ui.apps.structure/target/" />
+    <ignored path="$PROJECT_DIR$/dispatcher/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ad-content/ui.content/target/" />
+    <ignored path="$PROJECT_DIR$/ad-content/target/" />
+    <ignored path="$PROJECT_DIR$/ad-content/core/target/" />
+    <ignored path="$PROJECT_DIR$/ad-content/all/target/" />
+    <ignored path="$PROJECT_DIR$/ad-content/ui.apps/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/dispatcher/ad-content.dispatcher.ams.iml" />
+        <option value="$PROJECT_DIR$/woolies-acs.iml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__biz_netcentric_cq_tools_accesscontroltool_accesscontroltool_bundle_2_5_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__biz_netcentric_cq_tools_accesscontroltool_accesscontroltool_startuphook_bundle_2_5_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_adobe_acs_acs_aem_commons_bundle_4_6_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_adobe_aem_uber_jar_apis_with_deprecations_6_5_5.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_adobe_cq_core_wcm_components_core_2_8_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_day_commons_day_commons_any_2_0_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_day_commons_day_commons_gfx_2_1_28.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_day_commons_day_commons_text_1_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_day_cq_wcm_cq_wcm_taglib_5_7_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_ads_ads_lib_4_10_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_ads_ads_lib_axis_4_10_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_ads_dfp_axis_4_10_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_client_google_api_client_1_30_10.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_client_google_api_client_jackson2_1_20_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_1_36_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_jackson2_1_36_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_assistedinject_4_2_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_4_2_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_2_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_oauth_client_google_oauth_client_1_31_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_opencsv_opencsv_4_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_javax_activation_1_2_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_jxc_2_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_xjc_2_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_messaging_saaj_saaj_impl_1_5_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_stream_buffer_streambuffer_1_5_7.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_ws_jaxws_eclipselink_plugin_2_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_ws_jaxws_rt_2_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_ws_jaxws_tools_2_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_ws_policy_2_7_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_ws_sdo_eclipselink_plugin_2_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_5.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_discovery_commons_discovery_0_5.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_23_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_api_0_27_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_http_util_0_11_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_wcm_io_wcm_testing_aem_mock_core_2_5_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_wcm_io_wcm_testing_aem_mock_junit5_2_5_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_jws_jakarta_jws_api_1_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_mail_jakarta_mail_api_1_6_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_soap_jakarta_xml_soap_api_1_4_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_ws_jakarta_xml_ws_api_2_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_jcr_jcr_2_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_jaxrpc_api_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_soap_javax_xml_soap_api_1_4_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_8_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_addons_junit_addons_1_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_7.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_7.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_7_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_axis_axis_1_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_imaging_1_0_R1534292.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_text_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_atinject_1_0_spec_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_json_1_1_spec_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_api_2_10_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_api_2_12_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_jcr_commons_2_10_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_jcr_commons_2_12_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_oak_blob_1_2_7.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_oak_blob_1_4_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_oak_commons_1_2_7.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_oak_commons_1_4_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_oak_core_1_2_7.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_oak_core_1_4_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_oak_jcr_1_4_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_oak_mk_api_1_2_7.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_oak_segment_1_4_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_vault_org_apache_jackrabbit_vault_3_1_18.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_johnzon_johnzon_core_1_0_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_adapter_2_1_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_api_2_18_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_commons_classloader_1_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_commons_json_2_0_16.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_commons_mime_2_1_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_commons_osgi_2_4_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_i18n_2_4_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_jcr_api_2_3_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_jcr_contentparser_1_2_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_jcr_resource_2_7_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_models_api_1_3_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_models_impl_1_2_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_resourcebuilder_1_0_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_resourceresolver_1_4_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_scripting_api_2_1_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_scripting_core_2_0_36.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_scripting_sightly_compiler_1_2_4_1_4_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_scripting_sightly_runtime_1_2_0_1_4_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_serviceusermapper_1_2_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_servlet_helpers_1_2_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_servlets_annotations_1_2_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_settings_1_3_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_testing_jcr_mock_1_4_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_testing_osgi_mock_core_2_4_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_testing_resourceresolver_mock_1_1_24.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_testing_sling_mock_core_2_3_14.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_el_api_6_0_53.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_jasper_el_6_0_53.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_commonj_sdo_2_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_asm_2_7_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_core_2_7_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_moxy_2_7_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_sdo_2_7_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_external_management_api_3_2_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_gmbal_gmbal_4_0_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_ha_ha_api_3_1_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_pfl_pfl_asm_4_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_pfl_pfl_basic_4_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_pfl_pfl_basic_tools_4_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_pfl_pfl_dynamic_4_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_pfl_pfl_tf_4_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_pfl_pfl_tf_tools_4_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_2_GA.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_mimepull_mimepull_1_9_11.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_8_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_25_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_2_25_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_annotation_bundle_1_0_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_annotation_versioning_1_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_framework_1_9_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_resource_1_0_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_service_cm_1_6_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_service_component_1_4_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_service_component_annotations_1_4_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_service_event_1_3_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_service_log_1_4_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_service_metatype_annotations_1_4_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_service_url_1_0_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_13.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__uk_org_lidalia_lidalia_lang_1_0_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__uk_org_lidalia_lidalia_slf4j_ext_1_0_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__uk_org_lidalia_slf4j_test_1_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__wsdl4j_wsdl4j_1_6_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_6_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xmlParserAPIs_2_6_2.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="24" />
+    <option name="y" value="95" />
+    <option name="width" value="1623" />
+    <option name="height" value="911" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec549a0f-7724-44c5-ad11-1dae1de367ea" name="Default Changelist" comment="" />
+      <created>1601257319503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601257319503</updated>
+      <workItem from="1601257322793" duration="193000" />
+      <workItem from="1601257599823" duration="830000" />
+      <workItem from="1601258644446" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1085000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="24" y="95" width="1623" height="911" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25300443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.6056166" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ad-content/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/ad-content/pom.xml" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_231</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
